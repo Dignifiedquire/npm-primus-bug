@@ -1,0 +1,15 @@
+{
+  "name": "dep1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "primus": "^2.4.12",
+    "sockjs-client-node": "^0.1.1"
+  }
+}
